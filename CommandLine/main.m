@@ -11,7 +11,7 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         
-        ////Components
+        ////////Components
         int answer = arc4random() % 100 + 1;
         int guess = 0;
         int turn = 0;
